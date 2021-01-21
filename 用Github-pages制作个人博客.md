@@ -1,5 +1,5 @@
 # **在windows系统上搭建个人博客（失败了）**
-##主要使用工具: Github Ruby jekyll git Bash
+## 主要使用工具: Github Ruby jekyll git Bash
 
 ---
 
