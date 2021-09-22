@@ -1,2 +1,2 @@
 AD用法：
-在侧边栏properties中不勾选title block就可以去掉右下角标签，去掉原理图的边框和区域也是在properties中不勾选sheet border 和show zones 
+在侧边栏properties中不勾选title block就可以去掉右下角标签，去掉原理图的边框和区域也是在properties中不勾选sheet border 和show zones。
