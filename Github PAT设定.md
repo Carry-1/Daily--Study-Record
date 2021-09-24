@@ -4,5 +4,5 @@
 **我的Token：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**
 
 ## 参考文献
-**1.**[Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)  
-**2.**[Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+**1.** [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)  
+**2.** [Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
