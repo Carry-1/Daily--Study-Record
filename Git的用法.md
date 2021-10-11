@@ -34,4 +34,11 @@ git push origin
 ```
 可将修改push到远程库中
 
-以上都是默认远程库名为origin
+以上都是默认远程库名为origin    
+```
+git log --oneline --decorate --graph --all
+```
+通过上面这行指令可以我的commit历史
+
+## 参考文献：    
+**1.[git官网教程](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)**
